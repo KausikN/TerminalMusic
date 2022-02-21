@@ -1,0 +1,70 @@
+{
+    "name": "TerminalMusic",
+    "repoLink": "https://github.com/KausikN/TerminalMusic",
+    "localPath": "E:/Github Codes and Projects/Projects/TerminalMusic",
+    "modules": {
+        "app.py": {
+            "name": "app",
+            "type": "local",
+            "link": "https://github.com/KausikN/TerminalMusic/blob/master/app.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": [
+                "os.py",
+                "streamlit.py",
+                "json.py"
+            ]
+        },
+        "TerminalMusic.py": {
+            "name": "TerminalMusic",
+            "type": "local",
+            "link": "https://github.com/KausikN/TerminalMusic/blob/master/TerminalMusic.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": [
+                "time.py",
+                "numpy.py"
+            ]
+        },
+        "json.py": {
+            "name": "json",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": []
+        },
+        "numpy.py": {
+            "name": "numpy",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": []
+        },
+        "os.py": {
+            "name": "os",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": []
+        },
+        "streamlit.py": {
+            "name": "streamlit",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": []
+        },
+        "time.py": {
+            "name": "time",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "subDir": "",
+            "dependencies": []
+        }
+    }
+}

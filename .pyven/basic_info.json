@@ -1,0 +1,7 @@
+{
+    "repo_name": "TerminalMusic",
+    "requirements": [
+        "streamlit",
+        "opencv-python-headless"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "PROJECT_NAME": "TerminalMusic",
+    "PROJECT_LINK": "https://github.com/KausikN/TerminalMusic",
+
+    "PROJECT_DESC": "A terminal based visualiser for audio",
+
+    "PROJECT_README": "README.md",
+
+    "PROJECT_MODES": ["Terminal Waves"]
+}
