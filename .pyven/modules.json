@@ -11,8 +11,10 @@
             "subDir": "",
             "dependencies": [
                 "os.py",
+                "functools.py",
                 "streamlit.py",
-                "json.py"
+                "json.py",
+                "*.py"
             ]
         },
         "TerminalMusic.py": {
@@ -26,43 +28,59 @@
                 "numpy.py"
             ]
         },
-        "json.py": {
-            "name": "json",
-            "type": "inbuilt",
+        "*.py": {
+            "name": "*",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         },
-        "numpy.py": {
-            "name": "numpy",
-            "type": "inbuilt",
+        "functools.py": {
+            "name": "functools",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "json.py": {
+            "name": "json",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         },
         "os.py": {
             "name": "os",
-            "type": "inbuilt",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         },
         "streamlit.py": {
             "name": "streamlit",
-            "type": "inbuilt",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "numpy.py": {
+            "name": "numpy",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         },
         "time.py": {
             "name": "time",
-            "type": "inbuilt",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/TerminalMusic",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         }

@@ -1,2 +1,2 @@
-streamlit
-opencv-python-headless
+numpy==1.21
+streamlit==1.7.0
