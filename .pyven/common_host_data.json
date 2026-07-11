@@ -3,5 +3,8 @@
         "StreamLitGUI/",
         "app.py",
         "TerminalMusic.py"
-    ]
+    ],
+    "streamlit": {
+        "link": ""
+    }
 }
